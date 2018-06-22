@@ -1,0 +1,2 @@
+#!/bin/bash
+git --work-tree=/data/www/hexo --git-dir=/data/GitLibrary/hexo.git checkout -f
